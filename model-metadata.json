@@ -1,0 +1,12 @@
+{
+  "format" : "ollama-model-manager-package",
+  "model" : "qwen3-vl:8b-instruct",
+  "packageFile" : "qwen3-vl-8b-instruct.ollamapkg",
+  "packageSha256" : "6d2a2a281ae64505dd36d316aa348b69306ee42e7e810fcd8aabe9be12920fbf",
+  "packageSizeBytes" : 6140409306,
+  "totalChunks" : 586,
+  "manifestPath" : "chunk-manifest.json",
+  "partsDirectory" : "parts/",
+  "repository" : "qwen-vision",
+  "branch" : "main"
+}
